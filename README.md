@@ -16,3 +16,6 @@
 | VK Лето Look-alike               |     770 |       252 |  -0.86 |            27 |
 | Yandex Direct Категории          |    1032 |       316 |  -0.87 |            28 |
 | MyTarget Тест Электроника        |    1067 |       193 |  -0.92 |            33 |
+
+
+<img width="978" height="321" alt="image" src="https://github.com/user-attachments/assets/5bfb9237-85ba-4aba-980a-b3e936d8a1d8" />
