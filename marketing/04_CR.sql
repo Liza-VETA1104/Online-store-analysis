@@ -19,8 +19,8 @@ JOIN campaigns c
     ON u.campaign_id = c.campaign_id
 LEFT JOIN orders o 
     ON u.user_id = o.user_id
-    AND o.status = 'completed'                      -- только завершённые
+    AND o.status = 'completed'                     
     AND o.order_date >= u.registration_date
-    AND o.order_date < u.registration_date + INTERVAL '30 days'  -- за 30 дней
+    AND o.order_date < u.registration_date + INTERVAL '30 days' 
 GROUP BY c.campaign_name
 ORDER BY conversion_rate DESC;
