@@ -108,7 +108,8 @@
 
 
 
-<img width="910" height="385" alt="image" src="https://github.com/user-attachments/assets/725badf7-bfea-406d-a59a-647e3c6e327e" />
+<img width="1090" height="394" alt="image" src="https://github.com/user-attachments/assets/ad7fa773-078f-4873-8bbf-a70d3ddcbfca" />
+
 
 
 
