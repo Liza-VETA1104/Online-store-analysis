@@ -272,8 +272,7 @@
 > Запустить email-кампанию на 7–10 день после первой покупки с персонализированными рекомендациями и акциями.
 
 ---
-
-<img width="1023" height="305" alt="image" src="https://github.com/user-attachments/assets/41f05e1c-dbf3-4368-91a6-8d2c1e6be20c" />
+<img width="1014" height="310" alt="image" src="https://github.com/user-attachments/assets/ee2baa7c-753c-4050-86fd-b3ad093c9d4a" />
 
 ### ⏰ Временные паттерны покупок
 
