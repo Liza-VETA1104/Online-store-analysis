@@ -18,7 +18,6 @@ WITH user_cohorts AS (
     SELECT
         user_id,
         DATE_TRUNC('month', registration_date)::DATE AS cohort_month,
-        -- Границы месяцев жизни для точного расчёта
         DATE_TRUNC('month', registration_date)::DATE AS m0_start,
         (DATE_TRUNC('month', registration_date) + INTERVAL '1 month')::DATE AS m1_start,
         (DATE_TRUNC('month', registration_date) + INTERVAL '2 months')::DATE AS m2_start,
