@@ -468,7 +468,8 @@
 
 Дата анализа: **максимальная дата заказа в данных** (автоматически определена).
 
-<img width="1220" height="397" alt="image" src="https://github.com/user-attachments/assets/2f01c790-4af2-4e1c-ba73-7c357f357980" />
+<img width="1197" height="406" alt="image" src="https://github.com/user-attachments/assets/b7934872-255f-4cb3-87f2-2e3f402d1fd9" />
+
 
 ### 🔍 Ключевые наблюдения
 
